@@ -1,0 +1,23 @@
+button {
+    background-color: #4287f5;
+    color: white;
+    height: 30px;
+    width: 90px;
+    font-weight: 700;
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 1px 1px 1px #7B7A72;
+}
+
+button:hover {
+    background-color: #1d488d;
+    cursor: pointer;
+
+    
+}
+
+button:active {
+    height: 31px;
+    width: 91px;
+}
